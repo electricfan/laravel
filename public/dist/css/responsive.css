@@ -1,0 +1,136 @@
+/* @media (min-width: 768px) and (max-width: 979px) {
+
+}*/
+@media (max-width: 340px){
+    .tab .tabheader a{
+        padding: 10px;
+    }
+    .pcontentboxinfo h1{
+       font-size: 15px;
+    }
+    .pcontentboxinfo table{
+        font-size: 12px;
+    }
+    .selectbranch .btn-group:nth-child(2){
+        margin: 0px 0px 10px 0px;;
+    }
+}
+@media (max-width: 496px) {
+    .profinfoboxcontainer{
+        clear: both;
+        float: none;
+        display: block;
+    }
+    .userimg, .userimg img, .userimg2{
+        
+    }
+    .boxx{
+        margin: 5px auto !important;
+        display: block !important;
+        clear: both !important;
+    }
+   
+    .selectbranch .input-group{
+        width: 300px;
+        margin: 0 auto;
+        clear: both;
+        margin: 0px;
+        float: none;
+    }
+    .selectbranch .btn-group{
+        margin: 0px auto 10px auto;
+    }
+}
+@media (min-width: 497px) and (max-width: 553px){
+    .selectbranch .input-group{
+        width: 130px;
+    }
+}
+@media (max-width: 780px){
+    .pcontent{
+	width: 100%;
+	margin: 6% auto 0px auto;
+	
+	padding-bottom: 20px;
+	}
+	.dodongleft{
+	width: 100%;
+	display: block;
+	clear: both;
+	}
+	.dodongright{
+	width: 100%;
+	display: block;
+	clear: both;
+	}
+	.pcontentboxinfo h1{
+		text-align: center;
+	}
+	.pcontentboxinfo table{
+		margin: 0 auto;
+	}
+}
+@media (max-width: 880px){
+    .selectbranch .input-group{
+        width: 200px;
+    }
+}
+@media (max-width: 1007px){
+    
+    .filter{
+        clear: both !important;
+        float: none !important;
+        margin: 5px auto !important;
+        overflow: auto !important;
+        display: table !important;
+    }
+}
+@media (min-width: 900px) and (max-width: 1280px){
+    .bxx{
+        width: 50%; 
+    }
+    .clearfixx{
+        display: block !important;
+    }
+  
+    .profdata img{
+        width: 50px !important;
+        height: 50px !important;
+    }
+    .profdata .thumbnail .caption h3{
+        font-size: 10px !important;
+    }
+    .profdata .thumbnail .caption p{
+        font-size: 8px !important;
+    }
+}
+@media (max-width: 1390px){
+    .datatable{clear: both; float: none; margin: 10px auto; width: 100%;}
+    .datatable table{margin: 0 auto 5px auto !important; width: 95% !important;}
+    .tabmenu a h1{
+      font-size: 20px;
+    }
+    .profdata img{
+        width: 100px;
+        height: 100px;
+    }
+    .profdata .thumbnail .caption h3, .piccaption h3{
+        font-size: 15px;
+    }
+    .profdata .thumbnail .caption p, .piccaption p{
+        font-size: 12px;
+    }
+    .separator_updatebox{
+        display: block;
+    }
+    .updatebox{
+        width: 40%;
+        margin: 0px;
+        
+    } 
+    
+}
+@media (min-width: 1281px) and (max-width: 1680px){
+  
+}
+/* table */

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'pentumate';
+  src: url('pentumate.eot'); /* IE9 Compat Modes */
+  src: url('pentumate.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('pentumate.woff2') format('woff2'), /* Super Modern Browsers */
+       url('pentumate.woff') format('woff'), /* Pretty Modern Browsers */
+       url('pentumate.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('pentumate.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'cd';
+  src: url('CaviarDreams.eot'); /* IE9 Compat Modes */
+  src: url('CaviarDreams.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CaviarDreams.woff2') format('woff2'), /* Super Modern Browsers */
+       url('CaviarDreams.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CaviarDreams.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CaviarDreams.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'cdbold';
+  src: url('CaviarDreams_Bold.eot'); /* IE9 Compat Modes */
+  src: url('CaviarDreams_Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CaviarDreams_Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('CaviarDreams_Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CaviarDreams_Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CaviarDreams_Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'cdbolditalic';
+  src: url('CaviarDreams_BoldItalic.eot'); /* IE9 Compat Modes */
+  src: url('CaviarDreams_BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CaviarDreams_BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('CaviarDreams_BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CaviarDreams_BoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CaviarDreams_BoldItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'cditalic';
+  src: url('CaviarDreams_Italic.eot'); /* IE9 Compat Modes */
+  src: url('CaviarDreams_Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('CaviarDreams_Italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('CaviarDreams_Italic.woff') format('woff'), /* Pretty Modern Browsers */
+       url('CaviarDreams_Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('CaviarDreams_Italic.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
